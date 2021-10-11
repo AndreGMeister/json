@@ -2,5 +2,14 @@
     "Medicos" :[
         {"id" : 1, "nome" : "Andre Gustavo Meister", "especialidade" : "Analista de Sistemas"},
         {"id" : 2, "nome" : "Andre Gustavo Meister", "especialidade" : "Analista de Sistemas"}
-    ]
+    ],
+    "Horarios" :[
+        {"id" : 1, "id_med" : 1, "data" : "11/10/2021", "hora" : "13:30" },
+        {"id" : 2, "id_med" : 1, "data" : "11/10/2021", "hora" : "14:30" },
+        {"id" : 3, "id_med" : 1, "data" : "11/10/2021", "hora" : "15:30" },
+        {"id" : 4, "id_med" : 2, "data" : "11/10/2021", "hora" : "13:30" },
+        {"id" : 5, "id_med" : 2, "data" : "11/10/2021", "hora" : "14:30" },
+        {"id" : 6, "id_med" : 2, "data" : "11/10/2021", "hora" : "15:30" },
+    ],
+
 }
