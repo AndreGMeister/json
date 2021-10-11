@@ -16,8 +16,8 @@
          "nome" : "Andre Gustavo Meister", 
          "especialidade" : "Analista de Sistemas",
          "locais" : [
-                        {"id": 1. "local": "Consultorio", "endereco" : "Rua Francisco de Assis Costa, 717"},
-                        {"id": 2. "local": "Escritorio", "endereco" : "Rua Francisco de Assis Costa, 717"}
+                        {"id": 1, "local": "Consultorio", "endereco" : "Rua Francisco de Assis Costa, 717"},
+                        {"id": 2, "local": "Escritorio", "endereco" : "Rua Francisco de Assis Costa, 717"}
                     ]
         }
     ]
